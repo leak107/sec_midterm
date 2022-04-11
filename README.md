@@ -1,6 +1,6 @@
-Untuk lebih banyak please redirect to this [page](https://github.com/leak107/sec_midterm)
+Untuk lebih jelas please redirect to this github [page](https://github.com/leak107/sec_midterm), karena dikerjakan menggunakan `markdown` tidak menggunakan `docx`, `docs`, `microsft` 
 
-First number please refer to firstnumber folder  
-Second number please refer to secondnumber foler
+Nomor 1 ada pada folder firstnumber  
+Nomor 2 ada pada folder secondnumber
 
-Thankyou
+Terimakasih
